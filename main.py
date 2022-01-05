@@ -76,17 +76,17 @@ listaOrdenada = sorted(lista4, reverse=True)
 print(listaOrdenada)
 
 ###############################################################################################
-NO COMPILA
-buscar = 4
-
-match buscar:
-    case 1:
-        print("valor 1")
-    case 2:
-        print("valor 2")
-    case 3:
-        print("valor 3")
-    case 4:
-        print("valor 4")
+# NO COMPILA
+# buscar = 4
+#
+# match buscar:
+#     case 1:
+#         print("valor 1")
+#     case 2:
+#         print("valor 2")
+#     case 3:
+#         print("valor 3")
+#     case 4:
+#         print("valor 4")
 
 
